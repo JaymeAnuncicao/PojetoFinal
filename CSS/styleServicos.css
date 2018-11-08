@@ -1,0 +1,10 @@
+.servicos{
+    margin-top: 8vh;
+}
+
+@media only screen and (max-width: 550px){
+  .servicos {
+      margin-top: 10vh;
+      padding-bottom: 10vh;
+  }
+}
