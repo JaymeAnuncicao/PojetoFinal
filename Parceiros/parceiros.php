@@ -10,7 +10,7 @@
 </head>
 <body>
     <?php require '../arquivosRequire/navbar.php';?>
-    <main class="geral">
+    <main class="parceiros">
         <h1 class="text-center blue-text mt-5 display-3">Nossos parceiros</h1>
         <div class="container col-12 col-md-6">
             <div class="row">

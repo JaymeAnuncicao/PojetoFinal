@@ -40,7 +40,7 @@
 </head>
 <body>
     <?php require '../arquivosRequire/navbar.php';?>
-    <div class="container col-lg-6 mt-5 align-middle geral">
+    <div class="container col-lg-6 mt-5 align-middle login">
         <form action="../PHP/verifica.php" class="z-depth-3 rounded text-center blue darken-4 p-5 divLogin">
             <p class="h4 text-white mb-4">Login</p>
                 <input type="email" id="defaultLoginFormEmail" name="Email" class="form-control mb-4" placeholder="E-mail">

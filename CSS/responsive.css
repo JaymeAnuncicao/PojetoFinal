@@ -1,5 +1,43 @@
-@media only screen and (min-width:375px) and (max-width:1500px){
+@media only screen  and (max-width:1920px){
+    .noticias{
+        height: 90  0px;
+    }
+    .produtos{
+        margin-top: 5%;
+        height:540px;
+    }
+    .quemSomos{
+        height: 602px;
+    }
     #footerGeral{
-        position: relative;
+        position: static;
+    }
+    .servicos{
+        /* background-color: blue; */
+        height: 550px;
+    }
+    .parceiros {
+        height:554px;
+    }
+    .login{
+        height: 540px;
+    }
+}
+@media only screen and (min-width:300px) and (max-width:700px){
+    .produtos{
+        margin-top: 5%;
+        height: 1500px;
+    }
+}
+@media only screen and (min-width:700px) and (max-width:850px){
+    .produtos{
+        margin-top: 5%;
+        height: 1000px;
+    }
+}
+@media only screen and (min-width:1000px) and (max-width:1300px){
+    .produtos{
+        margin-top: 25%;
+        height: 920px;
     }
 }

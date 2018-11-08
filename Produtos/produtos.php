@@ -10,7 +10,7 @@
 </head>
 <body>
     <?php require '../arquivosRequire/navbar.php';?>
-        <section class="servicos geral">
+        <section class="produtos">
             <div class="container-fluid justify-content-center row">
                 <div class="z-depth-2 ml-4 mt-md-0 card" style="width: 18rem;">
                     <div class="view overlay">

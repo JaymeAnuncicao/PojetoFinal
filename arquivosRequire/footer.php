@@ -24,7 +24,7 @@
 
 
 
-
+<?php require '../arquivosRequire/header.php' ?>
 <footer id="footerGeral"  class="page-footer font-small blue darken-4 pt-4">
     <div class="container text-center text-md-left">
       <div class="row">

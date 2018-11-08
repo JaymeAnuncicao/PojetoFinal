@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <title>Mecanauto Martinelli</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <?php require '/php/arquivosRequire/header.php';?>
+    <?php require '../php/arquivosRequire/header.php';?>
     
 </head>
 <body class="home">
@@ -18,6 +18,6 @@
            <button class="d-flex m-auto rounded btn btn-white">Saiba Mais</button>
         </div>
     </header>
-    <?php require '../php/arquivosRequire/footer.php';?>
+    <?php require 'arquivosRequire/footer.php';?>
 </body>
 </html>

@@ -19,7 +19,7 @@
  </head>
  <body>
     <?php require '../arquivosRequire/navbarNoticias.php';?>
-        <section class="noticias geral">
+        <section class="noticias ">
             <div class="jumbotron">
                 <h1 class="text-center text-white mt-5 display-1">Notícias</h1>
             </div>
